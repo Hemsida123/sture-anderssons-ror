@@ -1,0 +1,16 @@
+STURE ANDERSSONS – GITHUB PAGES
+
+1. Packa upp ZIP-filen.
+2. Ladda upp alla filer och mappen assets till repositoryts rot.
+   index.html ska ligga direkt i roten, tillsammans med styles.css och app.js.
+3. Aktivera GitHub Pages under Settings > Pages och välj grenen samt / (root).
+4. Använd länken som GitHub visar när publiceringen är färdig.
+
+Alla elva sidor ingår. Inga installationer krävs.
+Mejlknappen öppnar ett färdigskrivet mejl. Besökaren skickar själv.
+Reco-betyget är en avläsning från 8 oktober 2026, inte en livewidget.
+Inför lansering på slutlig adress: ändra canonical-länkarna och sitemap.xml
+från förhandsvisningens adress till den slutliga webbplatsens adress.
+
+Behåll filnamnen och mappstrukturen. Ladda upp assets-mappen också –
+index.html ensam innehåller inte bilder, stilmall eller funktioner.

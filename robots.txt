@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sture-anderssons-ror-ystad.carlzzon121.chatgpt.site/sitemap.xml
